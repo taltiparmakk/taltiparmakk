@@ -5,8 +5,7 @@
 </p>
 
 ![Alt Text](https://media.giphy.com/media/C3gZCY92Cwyxq/giphy.gif)
-//![Alt Text](https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif)
-
+[comment]: <> (https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif)
 
 
 
