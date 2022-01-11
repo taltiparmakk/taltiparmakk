@@ -4,7 +4,7 @@
 <a href="https://twitter.com/@taltiparmakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taltiparmakk" height="30" width="40" /></a>
 </p>
 
-![Alt Text](https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif)
+![Alt Text](https://giphy.com/gifs/maudit-my-neighbor-totoro-C3gZCY92Cwyxq)
 
 
 <h3 align="left">Languages and Tools:</h3>
